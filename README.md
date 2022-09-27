@@ -1,6 +1,6 @@
 # social-network-link-prediction
 
-Contains IPython Notebooks for our project  
+Contains IPython Notebooks for our project of Link prediction on social networks using Heuristics and Representation Learning.
  ```bash 
 .
 ├── Data Processing
